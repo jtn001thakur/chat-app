@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Local environment files
+.env
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Mac/Linux swap/lock files
+*.swp
+*.lock
+
+# Optional: Package manager lock files (choose based on your usage)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
